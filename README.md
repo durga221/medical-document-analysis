@@ -60,18 +60,10 @@ MediAI is a sophisticated medical document analysis platform that leverages Goog
 
 ## 🖼️ Demo
 
-**Demo Video**
+> **📹 [Watch Demo Video](demo/medical.mp4)**
+> 
+> *Complete walkthrough showing file upload, multi-language support, AI analysis, and interactive chat features*
 
-Upload a single demo video showcasing the main dashboard, file upload, chat interface, multi-language support, and analysis results. Place your video in a `demo/` folder at the project root and reference it here:
-
-```markdown
-### Demo Video
-
-<div align="center">
-  <video src="demo/medical.mp4" controls width="800"></video>
-  <p><em>End-to-end walkthrough of MediAI features and workflow</em></p>
-</div>
-```
 
 ---
 
@@ -238,3 +230,4 @@ MAX_FILE_SIZE=10485760
 - **LinkedIn**: [durgaramakrishnakapa](https://www.linkedin.com/in/durgaramakrishnakapa/)
 - **Email**: k.durgaramakrishna2005@gmail.com
 
+---
