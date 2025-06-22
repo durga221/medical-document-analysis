@@ -1,0 +1,51 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# System
+.DS_Store
+Thumbs.db
+
+# VSCode/IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Demo/Media (if you don't want to upload large video files)
+demo/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+backend/.env

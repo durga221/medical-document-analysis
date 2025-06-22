@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn
+python-multipart
+pydantic
+langchain
+langchain-community
+fastembed
+faiss-cpu
+google-generativeai
+pdfminer.six
+python-dotenv
+deep-translator
+python-dotenv
