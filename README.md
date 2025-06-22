@@ -68,7 +68,7 @@ Upload a single demo video showcasing the main dashboard, file upload, chat inte
 ### Demo Video
 
 <div align="center">
-  <video src="demo/mediai-demo.mp4" controls width="800"></video>
+  <video src="medical.mp4" controls width="800"></video>
   <p><em>End-to-end walkthrough of MediAI features and workflow</em></p>
 </div>
 ```
